@@ -24,7 +24,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Live Site](https://your-live-site-url.com](https://tarek514.github.io/Frontend-Mentor-Challenge-2/))
+- Live Site URL: [Live Site](https://tarek514.github.io/Frontend-Mentor-Challenge-2/)
 
 ## My process
 
